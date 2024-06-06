@@ -1,0 +1,1 @@
+SELECT AVG(scores.mark) FROM scores WHERE scores.teacher_id = 3

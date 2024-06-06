@@ -1,0 +1,1 @@
+SELECT sc.student_id, sc.subject_id FROM scores sc WHERE student_id = 1
